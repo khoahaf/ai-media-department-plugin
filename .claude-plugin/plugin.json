@@ -1,0 +1,11 @@
+{
+  "name": "ai-media-department",
+  "version": "1.0.0",
+  "description": "AI Media Department: Project Manager (Social Media Lead) dieu phoi 6 team chuyen trach (Analysis/Planning/Production/Quality/Delivery/Learning) va 41 vai tro cho du an marketing/content/social media - nghien cuu, chien luoc, san xuat noi dung, kiem duyet, phan phoi, do luong.",
+  "author": {
+    "name": "khoahaisreal"
+  },
+  "homepage": "https://github.com/khoahaf/ai-media-department-plugin",
+  "repository": "https://github.com/khoahaf/ai-media-department-plugin",
+  "keywords": ["marketing", "content", "social-media", "project-manager", "orchestrator", "affiliate", "video", "seo"]
+}
